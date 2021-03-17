@@ -30,9 +30,10 @@ The analysis of the election show that (the additional data requested for the co
 		- Jefferson: 10.5% with 38,855 votes casted.
 		- Denver: 82.8% with 306,055 votes casted.
 		- Arapahoe: 6.7% with 24,801 votes casted.
-![image](https://user-images.githubusercontent.com/78666055/111475687-bcf8b680-8703-11eb-9244-5b905278b767.png)
+    - Largest County Turnout: Denver
 
-   - Largest County Turnout: Denver
+
+![image](https://user-images.githubusercontent.com/78666055/111475687-bcf8b680-8703-11eb-9244-5b905278b767.png)
 
 - There were 369,711 votes cast in the election.
 - The candidates were:
