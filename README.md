@@ -35,7 +35,7 @@ The analysis of the election show that (the additional data requested for the co
    - Largest County Turnout: Denver
 
 - There were 369,711 votes cast in the election.
-- The candidates were:![County_Results](https://user-images.githubusercontent.com/78666055/111475659-b5391200-8703-11eb-9356-3ebbb21662a7.png)
+- The candidates were:
 
 	- Charles Casper Stockham
 	- Diana DeGette
