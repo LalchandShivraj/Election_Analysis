@@ -47,3 +47,7 @@ The analysis of the election show that (the additional data requested for the co
 	- Raymon received 3.1% of the vote and 11,606 votes.
 - The winner of the election was:
 	- Diana DeGette who received 73.8% of the vote and 272,892 votes.
+
+
+![image](https://user-images.githubusercontent.com/78666055/111481855-bd944b80-8709-11eb-9a48-e45b0139a7ca.png)
+
