@@ -2,10 +2,10 @@
 
 ## Overview
 **Further to the "Prior work done" as described below, the election commission has requested some additional data:
-
-**. The voter turnout for each county
+**
+. The voter turnout for each county
 . The percentage of votes from each county out of the total count
-. The county with teh highest turnout
+. The county with teh highest turnout**
 
 ### Prior work done.
 Assist Colorado election official, Tom to determine the winner of the election based on popular votes, using Python instead of Excel. Following are what Tom is looking for:
