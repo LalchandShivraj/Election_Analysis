@@ -1,9 +1,9 @@
 # Election Analysis
 
 ## Overview
-Further to the "Prior work done" as described below, the election commission has requested some additional data:
+**Further to the "Prior work done" as described below, the election commission has requested some additional data:
 
-. The voter turnout for each county
+**. The voter turnout for each county
 . The percentage of votes from each county out of the total count
 . The county with teh highest turnout
 
@@ -22,19 +22,21 @@ Assist Colorado election official, Tom to determine the winner of the election b
 - Output: election_analysis.txt
 
 ## Summary
-**The code is written is such a way that it can process or **analyse any number of counties and candidates. It can be **modified to process States (once the state is included in the **election data) and thus be used for a country election.
+**The code is written is such a way that it can process or analyse any number of counties and candidates. It can be modified to process States (once the state is included in the election data) and thus be used for a country election.
  
 The analysis of the election show that (the additional data requested for the coutnies have been highlighted:
 
-   - Voter Percentage of vote and voter turnout were as follows:
-		- Jefferson: 10.5% (38,855)
-		- Denver: 82.8% (306,055)
-		- Arapahoe: 6.7% (24,801)
+   **- County voter Percentage of votes and voter turnout were as follows:
+		- Jefferson: 10.5% with 38,855 votes casted.
+		- Denver: 82.8% with 306,055 votes casted.
+		- Arapahoe: 6.7% with 24,801 votes casted.
+![image](https://user-images.githubusercontent.com/78666055/111475687-bcf8b680-8703-11eb-9244-5b905278b767.png)
 
    - Largest County Turnout: Denver
 
 - There were 369,711 votes cast in the election.
-- The candidates were:
+- The candidates were:![County_Results](https://user-images.githubusercontent.com/78666055/111475659-b5391200-8703-11eb-9356-3ebbb21662a7.png)
+
 	- Charles Casper Stockham
 	- Diana DeGette
 	- Raymon Anthony Doane
