@@ -2,10 +2,10 @@
 
 ## Overview
 **Further to the "Prior work done" as described below, the election commission has requested some additional data:
-**
-. The voter turnout for each county
-. The percentage of votes from each county out of the total count
-. The county with teh highest turnout**
+
+1. The voter turnout for each county
+2. The percentage of votes from each county out of the total count
+3. The county with teh highest turnout
 
 ### Prior work done.
 Assist Colorado election official, Tom to determine the winner of the election based on popular votes, using Python instead of Excel. Following are what Tom is looking for:
@@ -22,15 +22,15 @@ Assist Colorado election official, Tom to determine the winner of the election b
 - Output: election_analysis.txt
 
 ## Summary
-**The code is written is such a way that it can process or analyse any number of counties and candidates. It can be modified to process States (once the state is included in the election data) and thus be used for a country election.
+The code is written is such a way that it can process or analyse any number of counties and candidates. It can be modified to process States (once the state is included in the election data) and thus be used for a country election.
  
 The analysis of the election show that (the additional data requested for the coutnies have been highlighted:
 
-   **- County voter Percentage of votes and voter turnout were as follows:
-		- Jefferson: 10.5% with 38,855 votes casted.
-		- Denver: 82.8% with 306,055 votes casted.
-		- Arapahoe: 6.7% with 24,801 votes casted.
-    - Largest County Turnout: Denver
+- County voter Percentage of votes and voter turnout were as follows:
+	- Jefferson: 10.5% with 38,855 votes casted.
+	- Denver: 82.8% with 306,055 votes casted.
+	- Arapahoe: 6.7% with 24,801 votes casted.
+- Largest County Turnout: Denver
 
 
 ![image](https://user-images.githubusercontent.com/78666055/111475687-bcf8b680-8703-11eb-9244-5b905278b767.png)
