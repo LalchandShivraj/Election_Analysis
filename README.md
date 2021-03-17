@@ -19,7 +19,7 @@ Assist Colorado election official, Tom to determine the winner of the election b
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio code 1.54.1
-- Output: election_analysis.txt
+- Output: election_analysis.txt (in the analysis folder)
 
 ## Summary
 The code is written is such a way that it can process or analyse any number of counties and candidates. It can be modified to process States (once the state is included in the election data) and thus be used for a country election.
@@ -47,6 +47,8 @@ The analysis of the election show that (the additional data requested for the co
 	- Raymon received 3.1% of the vote and 11,606 votes.
 - The winner of the election was:
 	- Diana DeGette who received 73.8% of the vote and 272,892 votes.
+
+- A file (election_analysis.txt) containing the results is in the analysis folder.
 
 
 ![image](https://user-images.githubusercontent.com/78666055/111481855-bd944b80-8709-11eb-9a48-e45b0139a7ca.png)
